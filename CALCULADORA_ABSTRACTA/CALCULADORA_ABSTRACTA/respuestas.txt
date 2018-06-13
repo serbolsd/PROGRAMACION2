@@ -1,0 +1,26 @@
+Esta calculadora funciona con los siguientes parametros:
+	1)La 'P' o 'p' es para sacar la potencia del numero de la izquierda
+	2)La 'R' o 'r' es para sacar la raiz del numero de la izquierda
+	3)La 'S' o 's' es para calcular el seno
+	4)La 'C' o 'c' es para calcular el coseno
+	5)La 'T' o 't' es para calcular la tangente
+	6)La 'L' o 'l' es para calcular el logaritmo natural
+
+
+2.000000+2.000000
+Resultado= 4.000000
+
+2.000000t3.000000
+Resultado= 0.104815
+
+4.000000*5.000000
+Resultado= 20.000000
+
+6.000000/3.000000
+Resultado= 2.000000
+
+20.000000-10.000000+5.000000*2.000000
+20.000000-10.000000+10.000000
+10.000000+10.000000
+Resultado= 20.000000
+
